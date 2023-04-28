@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Florian</h1>
-<h3 align="center">A french developer who learning everyday</h3>
+<h3 align="center">A french developer who learn everyday</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flodele&label=Profile%20views&color=0e75b6&style=flat" alt="flodele" /> </p>
 <img align="right" alt="code" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
